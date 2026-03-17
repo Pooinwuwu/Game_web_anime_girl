@@ -1,0 +1,53 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Anime_girl_rank.Models; // อย่าลืมเปลี่ยนชื่อตาม Project ของคุณ
+
+namespace Anime_girl_rank.Pages
+{
+    public class IndexModel : PageModel
+    {
+        // สร้างข้อมูล Mock แบบ Static (เพื่อให้ข้อมูลไม่หายเวลาเปลี่ยนหน้า)
+        private static List<Character>
+    _characters = new List<Character>
+        {
+        static List<Character_girl>
+            characters = new List<Character_girl>
+                {
+                new Character_girl { Id = 1, Name = "Boa Handcock", ImageUrl = "/images/boa.png", Wins = 0 , Score = 0, TotalMatches = 0 },
+                new Character_girl { Id = 2, Name = "Lacus Clyne", ImageUrl = "/images/lacus.png", Wins = 0 , Score = 0, TotalMatches = 0},
+                new Character_girl { Id = 3, Name = "Saeko Busujima", ImageUrl = "senpai.png", Wins = 0 , Score = 0, TotalMatches = 0}
+        };
+
+        // ตัวแปรสำหรับส่งไปโชว์ที่หน้า HTML
+        public Character LeftChar { get; set; }
+        public Character RightChar { get; set; }
+
+        public void OnGet()
+        {
+        RandomizeCharacters();
+        }
+
+        public IActionResult OnPostVote(int winnerId)
+        {
+        // หาตัวที่ชนะใน List แล้วบวกคะแนน
+        var winner = _characters.FirstOrDefault(c => c.Id == winnerId);
+        if (winner != null) winner.Wins++;
+
+        // สุ่มใหม่และแสดงผลหน้าเดิม
+        return RedirectToPage();
+        }
+
+        private void RandomizeCharacters()
+        {
+        var rnd = new Random();
+        // สุ่มตัวที่ 1
+        LeftChar = _characters[rnd.Next(_characters.Count)];
+
+        // สุ่มตัวที่ 2 (ต้องไม่ซ้ำกับตัวแรก)
+        do {
+        RightChar = _characters[rnd.Next(_characters.Count)];
+        } while (RightChar.Id == LeftChar.Id);
+        }
+        }
+        }
+

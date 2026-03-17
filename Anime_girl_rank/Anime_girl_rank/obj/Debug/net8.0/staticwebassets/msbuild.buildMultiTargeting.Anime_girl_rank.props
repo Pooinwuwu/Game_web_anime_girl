@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Anime_girl_rank.props" />
+</Project>

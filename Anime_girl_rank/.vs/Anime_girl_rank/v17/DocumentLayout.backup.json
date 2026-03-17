@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\controllers\\backhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\controllers\\backhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\views\\backhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\views\\backhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\anime_girl_rank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\anime_girl_rank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\models\\character_girl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\models\\character_girl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|c:\\users\\user\\desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\game_web_anime_girl\\anime_girl_rank\\anime_girl_rank\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0B8529E-685C-4085-A51F-51A753987DEF}|Anime_girl_rank\\Anime_girl_rank.csproj|solutionrelative:anime_girl_rank\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Controllers\\BackHomeController.cs",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Controllers\\BackHomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Controllers\\BackHomeController.cs",
+              "RelativeToolTip": "Anime_girl_rank\\Controllers\\BackHomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:38:44.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Program.cs",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Program.cs",
+              "RelativeToolTip": "Anime_girl_rank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:28:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character_girl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Models\\Character_girl.cs",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Models\\Character_girl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Models\\Character_girl.cs",
+              "RelativeToolTip": "Anime_girl_rank\\Models\\Character_girl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:30:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Anime_girl_rank\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T12:11:19.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Views\\BackHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Views\\BackHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Views\\BackHome\\Index.cshtml",
+              "RelativeToolTip": "Anime_girl_rank\\Views\\BackHome\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T12:30:05.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Anime_girl_rank",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Anime_girl_rank.csproj",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Anime_girl_rank.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Anime_girl_rank.csproj",
+              "RelativeToolTip": "Anime_girl_rank\\Anime_girl_rank.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T11:33:46.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\appsettings.json",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\appsettings.json",
+              "RelativeToolTip": "Anime_girl_rank\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T12:02:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Anime_girl_rank\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Anime_girl_rank\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T12:03:43.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
