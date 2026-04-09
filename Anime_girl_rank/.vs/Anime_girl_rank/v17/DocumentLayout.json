@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Anime_girl_rank\\Controllers\\BackHomeController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Controllers\\BackHomeController.cs",
               "RelativeToolTip": "Anime_girl_rank\\Controllers\\BackHomeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T11:38:44.098Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Anime_girl_rank\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:28:40.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T11:28:40.449Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Anime_girl_rank\\Models\\Character_girl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:30:27.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T11:30:27.576Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Anime_girl_rank\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T12:11:19.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T12:11:19.949Z"
             },
             {
               "$type": "Document",
@@ -106,21 +103,19 @@
               "RelativeToolTip": "Anime_girl_rank\\Views\\BackHome\\Index.cshtml",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T12:30:05.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T12:30:05.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Anime_girl_rank",
+              "Title": "Anime_girl_rank.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Anime_girl_rank.csproj",
               "RelativeDocumentMoniker": "Anime_girl_rank\\Anime_girl_rank.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u0E42\u0E1B\u0E23\u0E40\u0E08\u0E04\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\Anime_girl_rank.csproj",
               "RelativeToolTip": "Anime_girl_rank\\Anime_girl_rank.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T11:33:46.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T11:33:46.934Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Anime_girl_rank\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-17T12:02:07.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T12:02:07.448Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Anime_girl_rank\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T12:03:43.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T12:03:43.166Z"
             }
           ]
         }
