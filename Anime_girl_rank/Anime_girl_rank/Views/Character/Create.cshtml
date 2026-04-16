@@ -1,0 +1,34 @@
+@model Anime_girl_rank.Models.Character_girl
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Add Character";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg p-4 rounded">
+                <h2 class="text-center mb-4">เพิ่มตัวละครใหม่</h2>
+
+                <form asp-controller="Character" asp-action="Create" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="form-group mb-3">
+                        <label class="form-label fw-bold">ชื่อตัวละคร (Name)</label>
+                        <input type="text" name="name" class="form-control" placeholder="ใส่ชื่อตัวละครที่นี่..." required />
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label class="form-label fw-bold">อัปโหลดรูปภาพ (Upload Image)</label>
+                        <input type="file" name="imageFile" class="form-control" accept="image/*" required />
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary btn-lg">เพิ่มตัวละคร</button>
+                        <a asp-controller="BackHome" asp-action="Index" class="btn btn-secondary">กลับไปหน้าหลัก</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,21 +1,41 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Anime_girl_rank.Models; // ตรวจสอบชื่อ Namespace ของ Character_girl ให้ถูก
+using Microsoft.AspNetCore.Mvc;
+using Anime_girl_rank.Models;
+using Anime_girl_rank.Data;
 
-namespace Anime_girl_rank.Controllers // เปลี่ยนเป็น Controllers
+namespace Anime_girl_rank.Controllers
 {
-    public class BackHomeController : Controller // ต้องสืบทอดจาก Controller
+    public class BackHomeController : Controller
     {
-        // ใช้ static เพื่อให้ข้อมูลไม่หายเวลา Refresh หน้า
-        private static List<Character_girl> characters = new List<Character_girl> {
-            new Character_girl { Id = 1, Name = "Boa Hancock", ImageUrl = "/images/boa.png", Wins = 0 },
-            new Character_girl { Id = 2, Name = "Lacus Clyne", ImageUrl = "/images/lacus.png", Wins = 0 },
-            new Character_girl { Id = 3, Name = "Saeko Busujima", ImageUrl = "/images/senpai.jpg", Wins = 0 }
-        };
+        private readonly ApplicationDbContext _context;
+
+        public BackHomeController(ApplicationDbContext context)
+        {
+            _context = context;
+        }
 
         [HttpGet]
         public IActionResult Index()
         {
-            if (characters.Count < 2) return Content("ต้องมีตัวละครอย่างน้อย 2 ตัว");
+            var characters = _context.Characters.ToList();
+
+            if (characters.Count < 2) 
+            {
+                // ถ้าไม่มีตัวละครในฐานข้อมูลเลย เราจะสร้างตัวละครจำลองเริ่มต้นให้
+                if (characters.Count == 0)
+                {
+                    _context.Characters.AddRange(new List<Character_girl>
+                    {
+                        new Character_girl { Name = "Boa Hancock", ImageUrl = "/images/boa.png", Wins = 0 },
+                        new Character_girl { Name = "Lacus Clyne", ImageUrl = "/images/lacus.png", Wins = 0 },
+                        new Character_girl { Name = "Saeko Busujima", ImageUrl = "/images/senpai.jpg", Wins = 0 }
+                    });
+                    _context.SaveChanges();
+                    characters = _context.Characters.ToList();
+                }
+
+                if (characters.Count < 2) 
+                    return Content("ต้องมีตัวละครอย่างน้อย 2 ตัว โปรดเพิ่มตัวละครใหม่");
+            }
 
             var random = new Random();
             var char1 = characters[random.Next(characters.Count)];
@@ -36,15 +56,14 @@ namespace Anime_girl_rank.Controllers // เปลี่ยนเป็น Contr
         [HttpPost]
         public IActionResult Vote(int winnerId)
         {
-            // ใช้คำสั่งนี้เพื่อป้องกันการพังถ้าหา ID ไม่เจอ
-            var winner = characters.FirstOrDefault(c => c.Id == winnerId);
+            var winner = _context.Characters.FirstOrDefault(c => c.Id == winnerId);
 
             if (winner != null)
             {
                 winner.Wins++;
+                _context.SaveChanges();
             }
 
-            // ลองเปลี่ยนมาใช้ท่านี้เพื่อความชัวร์
             return RedirectToAction(nameof(Index));
         }
     }
