@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anime_girl_rank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83529a06c39981647a0098c8d23d2fe4b839b46d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20874f0269cc46c84ffb3c30ba8c0554d0d0bf7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anime_girl_rank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anime_girl_rank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

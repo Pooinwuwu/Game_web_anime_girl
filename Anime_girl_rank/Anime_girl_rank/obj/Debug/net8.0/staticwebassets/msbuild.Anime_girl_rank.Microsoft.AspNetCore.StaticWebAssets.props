@@ -72,6 +72,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\boa.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Anime_girl_rank</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Anime_girl_rank</BasePath>
+      <RelativePath>images/e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hiu0iw7lv6</Fingerprint>
+      <Integrity>eRzebywv9+VX7ZauFjSjTJV7eo98dvg0j8/4UQzZwM0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lacus.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Anime_girl_rank</SourceId>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Do04lTCoLKhXrUcRVK+9hegdalCd9skoqgJKoOER+O0=",
+  "Hash": "JFqvX95P+MeGdTJjgHgyltMkp1Zvzo63cWq29T7pnGw=",
   "Source": "Anime_girl_rank",
   "BasePath": "_content/Anime_girl_rank",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\boa.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\โปรเจค\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\wwwroot\\images\\e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg",
+      "SourceId": "Anime_girl_rank",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\โปรเจค\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\wwwroot\\",
+      "BasePath": "_content/Anime_girl_rank",
+      "RelativePath": "images/e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hiu0iw7lv6",
+      "Integrity": "eRzebywv9+VX7ZauFjSjTJV7eo98dvg0j8/4UQzZwM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\โปรเจค\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\wwwroot\\images\\lacus.png",
@@ -1790,6 +1811,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-KtZaY6Ty09Szo7WLadcGdEfCsJU0xMJj+S8xp9LU6LQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.hiu0iw7lv6.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\โปรเจค\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\wwwroot\\images\\e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eRzebywv9+VX7ZauFjSjTJV7eo98dvg0j8/4UQzZwM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 14:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hiu0iw7lv6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eRzebywv9+VX7ZauFjSjTJV7eo98dvg0j8/4UQzZwM0="
+        }
+      ]
+    },
+    {
+      "Route": "images/e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\โปรเจค\\Game_web_anime_girl\\Anime_girl_rank\\Anime_girl_rank\\wwwroot\\images\\e0053e72-37be-45d5-8661-b19e5cdf14b9_saber_ar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eRzebywv9+VX7ZauFjSjTJV7eo98dvg0j8/4UQzZwM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 14:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eRzebywv9+VX7ZauFjSjTJV7eo98dvg0j8/4UQzZwM0="
         }
       ]
     },
